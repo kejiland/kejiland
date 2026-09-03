@@ -45,6 +45,58 @@ $ uptime
 </td></tr>
 </table>
 
+<!-- ═══════════════════════ 个人档案 ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" width="24" /> 个人档案
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### 🪪 kejiland <a href="https://github.com/kejiland?tab=followers"><img src="https://img.shields.io/badge/ID-%230001-00E5FF?style=flat-square" alt="ID" /></a>
+
+```yaml
+# whoami --verbose
+alias:        kejiland
+role:         独立开发者 / 开源爱好者
+timezone:     UTC+8 · 中国标准时间
+status:       🟢 ONLINE · 折腾中
+mood:         「依赖越少，活得越久」
+```
+
+</td>
+<td width="48%" valign="top">
+
+### 📡 通讯频道
+
+```yaml
+# netstat -an | grep OPEN
+blog:    https://kejiland.pages.dev            # 主站 · 文章与动态
+gb:      https://kejiland.pages.dev/guestbook  # 留言板 · 随时找我
+rss:     https://kejiland.pages.dev/api/feed.xml   # 订阅我的更新
+issues:  https://github.com/kejiland/qingyu-blog/issues   # 合作/交流提 Issue
+```
+
+<a href="https://kejiland.pages.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_%E4%B8%BB%E7%AB%99-kejiland.pages.dev-00E5FF?style=flat-square" alt="主站" /></a>
+<a href="https://kejiland.pages.dev/guestbook"><img src="https://img.shields.io/badge/%F0%9F%92%AC_%E7%95%99%E8%A8%80%E6%9D%BF-/guestbook-8A2BE2?style=flat-square" alt="留言板" /></a>
+<a href="https://kejiland.pages.dev/api/feed.xml"><img src="https://img.shields.io/badge/%F0%9F%93%A1_RSS-/api/feed.xml-F38020?style=flat-square" alt="RSS" /></a>
+<a href="https://github.com/kejiland/qingyu-blog/issues"><img src="https://img.shields.io/badge/%F0%9F%A4%9D_%E4%BA%A4%E6%B5%81-Issues-181717?style=flat-square&logo=github" alt="Issues" /></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### ⏱️ 实时状态
+
+![实时状态](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%8A%B6%E6%80%81-%F0%9F%9F%A2%20%E5%9C%A8%E7%BA%BF%E2%80%A2%E6%8A%98%E8%85%BE%E4%B8%AD-00E5FF?style=flat-square&logo=statuspage&logoColor=white)
+![时区](https://img.shields.io/badge/%E6%97%B6%E5%8C%BA-UTC%2B8%20%C2%B7%20%E4%B8%AD%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4-8A2BE2?style=flat-square&logo=clockify&logoColor=white)
+![专注领域](https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-%E4%BA%91%E5%8E%9F%E7%94%9F%E2%80%A2%E8%87%AA%E6%89%98%E7%AE%A1%E2%80%A2%E5%89%8D%E7%AB%AF-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![咖啡因](https://img.shields.io/badge/%E5%92%96%E5%95%A1%E5%9B%A0-%E6%8C%81%E7%BB%AD%E8%A1%A5%E5%85%85%E4%B8%AD%20%E2%98%95-6F4E37?style=flat-square)
+
+</td>
+</tr>
+</table>
+
 <!-- ═══════════════════════ 技术栈 ═══════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24" /> 技术军火库
 
